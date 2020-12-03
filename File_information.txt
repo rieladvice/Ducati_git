@@ -1,4 +1,5 @@
 Tuning file
 
 RR_LR_03.bin is een mapping file
-Laatste run vorig jaar
+Laatste run vorig jaar 2019
+
